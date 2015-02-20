@@ -3,7 +3,7 @@
 
 
 This is the <strong>Default View</strong>.
-
+<!--
 <div class="container">
   <div class="row">    
     <div class="col-sm-4">
@@ -15,8 +15,8 @@ This is the <strong>Default View</strong>.
   </div>
 </div>
 
+-->
 
-<!--
 <div class="container">
   <div class="row">    
     <div class="col-sm-4">
@@ -27,7 +27,7 @@ This is the <strong>Default View</strong>.
     </div>
   </div>
 </div>
--->
+
 
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
