@@ -16,7 +16,7 @@ This is the <strong>Default View</strong>.
 </div>
 
 
-/*
+<!--
 <div class="container">
   <div class="row">    
     <div class="col-sm-2">
@@ -28,3 +28,4 @@ This is the <strong>Default View</strong>.
   </div>
 </div>
 */
+-->
